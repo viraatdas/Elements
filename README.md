@@ -1,2 +1,2 @@
 # Elements
-source control for a GarageBand project 
+Source control for a GarageBand project 
